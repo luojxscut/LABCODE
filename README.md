@@ -5,10 +5,13 @@ Our laboratory conducts theoretical research in areas such as deep learning, sel
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/2c248ee5-7f32-4e82-be88-6a1d36f45d3f" width="900">
+      <img src="https://github.com/user-attachments/assets/2c248ee5-7f32-4e82-be88-6a1d36f45d3f" width="500">
     </td>
     <td>
-      This is the text on the right. Add your content here, such as explanations or details about the image.
+      <p><strong>标题</strong></p>
+      <p>这是你的描述文字，可以写多行内容。</p>
     </td>
   </tr>
 </table>
+
+

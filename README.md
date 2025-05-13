@@ -5,11 +5,12 @@ Our laboratory conducts theoretical research in areas such as deep learning, sel
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/2c248ee5-7f32-4e82-be88-6a1d36f45d3f" width="500">
+      <img src="https://github.com/user-attachments/assets/2c248ee5-7f32-4e82-be88-6a1d36f45d3f" width="1000">
     </td>
     <td>
-      <p><strong>标题</strong></p>
-      <p>这是你的描述文字，可以写多行内容。</p>
+      <p><strong>[SIVP'2025]Mask inpainting-based data generation architecture for surface defect images with complex backgrounds</strong></p>
+     Jiaxiang Luo*, Jiaxuan, Chen<br>
+     [<a href="https://doi.org/10.1007/s11760-025-03987-y">Paper</a>][<a href="https://doi.org/10.1007/s11760-025-03987-y">Code</a>]
     </td>
   </tr>
 </table>

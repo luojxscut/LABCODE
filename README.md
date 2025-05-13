@@ -9,7 +9,7 @@ Our laboratory conducts theoretical research in areas such as deep learning, sel
     </td>
     <td>
       <p><strong>[SIVP'2025]Mask inpainting-based data generation architecture for surface defect images with complex backgrounds</strong></p>
-     Jiaxiang Luo*, Jiaxuan Chen<br>
+     Jiaxiang Luo*, Jiaxuan,Chen<br>
      [<a href="https://doi.org/10.1007/s11760-025-03987-y">Paper</a>][<a href="https://github.com/luojxscut/MIDG.git">Code</a>]
     </td>
   </tr>
